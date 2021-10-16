@@ -1,0 +1,143 @@
+epoch 0
+train...
+Epoch Step: 1 Loss: 2.958241 Tokens per Sec: 4673.226562
+valid...
+Epoch Step: 1 Loss: 1.984933 Tokens per Sec: 23178.667969
+valid loss: 1.9919525384902954
+
+epoch 1
+train...
+Epoch Step: 1 Loss: 2.356405 Tokens per Sec: 15627.933594
+valid...
+Epoch Step: 1 Loss: 1.951698 Tokens per Sec: 20617.501953
+valid loss: 1.9496721029281616
+
+epoch 2
+train...
+Epoch Step: 1 Loss: 2.154443 Tokens per Sec: 13462.978516
+valid...
+Epoch Step: 1 Loss: 1.749603 Tokens per Sec: 23679.312500
+valid loss: 1.703455924987793
+
+epoch 3
+train...
+Epoch Step: 1 Loss: 2.728413 Tokens per Sec: 10897.170898
+valid...
+Epoch Step: 1 Loss: 1.574417 Tokens per Sec: 17115.787109
+valid loss: 1.5427048206329346
+
+
+epoch 4
+train...
+Epoch Step: 1 Loss: 1.951856 Tokens per Sec: 10444.118164
+valid...
+Epoch Step: 1 Loss: 1.398583 Tokens per Sec: 18202.275391
+valid loss: 1.401813268661499
+
+epoch 5
+train...
+Epoch Step: 1 Loss: 2.161158 Tokens per Sec: 10444.639648
+valid...
+Epoch Step: 1 Loss: 0.789932 Tokens per Sec: 18133.767578
+valid loss: 0.8077201247215271
+
+epoch 6
+train...
+Epoch Step: 1 Loss: 1.883376 Tokens per Sec: 10774.636719
+valid...
+Epoch Step: 1 Loss: 0.561417 Tokens per Sec: 18298.703125
+valid loss: 0.5750958919525146
+
+epoch 7
+train...
+Epoch Step: 1 Loss: 1.681291 Tokens per Sec: 10433.765625
+valid...
+Epoch Step: 1 Loss: 1.082264 Tokens per Sec: 19028.335938
+valid loss: 1.0871597528457642
+
+
+epoch 8
+train...
+Epoch Step: 1 Loss: 1.239318 Tokens per Sec: 7758.298828
+valid...
+Epoch Step: 1 Loss: 0.106052 Tokens per Sec: 19154.123047
+valid loss: 0.10469663888216019
+
+epoch 9
+train...
+Epoch Step: 1 Loss: 0.857652 Tokens per Sec: 12582.307617
+valid...
+Epoch Step: 1 Loss: 0.026194 Tokens per Sec: 19926.492188
+valid loss: 0.02754024788737297
+
+epoch 10
+train...
+Epoch Step: 1 Loss: 0.075419 Tokens per Sec: 12465.409180
+valid...
+Epoch Step: 1 Loss: 0.012031 Tokens per Sec: 19713.052734
+valid loss: 0.016741272062063217
+
+epoch 11
+train...
+Epoch Step: 1 Loss: 0.156453 Tokens per Sec: 10983.351562
+valid...
+Epoch Step: 1 Loss: 0.014321 Tokens per Sec: 19511.023438
+valid loss: 0.032188743352890015
+
+epoch 12
+train...
+Epoch Step: 1 Loss: 0.361787 Tokens per Sec: 12096.902344
+valid...
+Epoch Step: 1 Loss: 0.036385 Tokens per Sec: 16978.455078
+valid loss: 0.036440659314394
+
+epoch 13
+train...
+Epoch Step: 1 Loss: 0.116029 Tokens per Sec: 9645.270508
+valid...
+Epoch Step: 1 Loss: 0.021674 Tokens per Sec: 20032.068359
+valid loss: 0.02486853115260601
+
+epoch 14
+train...
+Epoch Step: 1 Loss: 0.126884 Tokens per Sec: 12791.603516
+valid...
+Epoch Step: 1 Loss: 0.015019 Tokens per Sec: 19285.937500
+valid loss: 0.015991710126399994
+
+epoch 15
+train...
+Epoch Step: 1 Loss: 0.050211 Tokens per Sec: 14662.023438
+valid...
+Epoch Step: 1 Loss: 0.033671 Tokens per Sec: 19407.945312
+valid loss: 0.03044409118592739
+
+epoch 16
+train...
+Epoch Step: 1 Loss: 0.046079 Tokens per Sec: 13897.257812
+valid...
+Epoch Step: 1 Loss: 0.030334 Tokens per Sec: 22929.203125
+valid loss: 0.028043098747730255
+
+epoch 17
+train...
+Epoch Step: 1 Loss: 0.032394 Tokens per Sec: 14036.155273
+valid...
+Epoch Step: 1 Loss: 0.012150 Tokens per Sec: 20823.593750
+valid loss: 0.011789273470640182
+
+epoch 18
+train...
+Epoch Step: 1 Loss: 0.026080 Tokens per Sec: 14085.923828
+valid...
+Epoch Step: 1 Loss: 0.003358 Tokens per Sec: 22914.523438
+valid loss: 0.005262122489511967
+
+epoch 19
+train...
+Epoch Step: 1 Loss: 0.015979 Tokens per Sec: 15497.113281
+valid...
+Epoch Step: 1 Loss: 0.001567 Tokens per Sec: 19962.478516
+valid loss: 0.0016241641715168953
+greedy decode
+tensor([[ 2,  3,  4,  5,  6,  7,  8,  9, 10]], device='cuda:0')
